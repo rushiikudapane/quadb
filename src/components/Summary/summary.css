@@ -1,0 +1,33 @@
+.summary {
+    z-index: 10;
+    align-items: center;
+    color: white;
+    margin-top: 150px;
+}
+
+.contain {
+    z-index: 10;
+    margin-top: -680px;
+}
+
+.summaryCard {
+    margin-top: 80px;
+    width: 25rem;
+    height: 100rem;
+    margin-left: 100px;
+}
+
+.contentCard {
+    margin-top: 80px;
+    width: 30rem;
+    height: 500px;
+    margin-left: 70px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(245, 245, 245, 0);
+    position: relative;
+    place-items: center;
+    border: 0px;
+    font-family: 'Raleway', sans-serif;
+}

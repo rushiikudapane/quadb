@@ -1,0 +1,14 @@
+.title {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: 200;
+    font-family: 'Monoton', cursive;
+    margin-left: 285px;
+}
+
+.subTitle {
+    margin-right: 340px;
+    font-family: 'Sacramento', cursive;
+    color: red;
+    font-size: 50px;
+}

@@ -1,0 +1,11 @@
+.summaryContent {
+  margin-top: 80px;
+  width: 25rem;
+  height: auto;
+  margin-left: 100px;
+  box-shadow: 10px 10px 10px black;
+}
+
+.font {
+  color: rgb(162, 162, 169);
+}
